@@ -5,3 +5,7 @@ import Arc from './Arc.svelte'
 export {Arc}
 import Marimekko from './Marimekko.svelte'
 export {Marimekko}
+import Scatter from './Scatter.svelte'
+import Line from './Line.svelte'
+
+export {Scatter, Line}
